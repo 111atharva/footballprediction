@@ -8,10 +8,8 @@ Because of the financial stakes involved in the betting process, predicting the 
 Prediction is very important as it helps teams to plan out things. 
 
 # Methodology 
-The  methods used for prediction has four main steps:
+The  methods used for prediction using Multiple Linear Regression has four main steps:
 1. Identifying top 7 tournaments and top 5 competitions 
 2. Strength = Games Won  x  Importance of the game.
 3. Predict overall, defensive and offensive strength of each national team for each year.
 4. Use all recorded  Matches, Strength,Importance to predict the outcomes of the current tournament.
-
-
